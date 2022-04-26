@@ -4,7 +4,7 @@
 Grup 60 OUA tutmuş
 
 # Ürün İle İlgili Bilgiler
- Oyunumuz STEaM  eğitimi odaklı olacak.
+ Oyunumuz STEAM  eğitimi odaklı olacak.
 
 ## Takım Elemanları
 
