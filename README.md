@@ -1,10 +1,10 @@
  
 # **Bootcamp 60.Grup**
 
-60.Grup
+Grup 60 OUA tutmuş
 
 # Ürün İle İlgili Bilgiler
- Oyunumuz STEM odaklı olacak.
+ Oyunumuz STEaM  eğitimi odaklı olacak.
 
 ## Takım Elemanları
 
