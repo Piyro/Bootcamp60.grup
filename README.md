@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
  
-@Piyro 
-OyunveUygulamaAkademisi
-/
-BootcampScrumTemplate
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-BootcampScrumTemplate/README.md
-@atilsamancioglu
-atilsamancioglu Links updated
-Latest commit 9e23d20 22 days ago
- History
- 1 contributor
-85 lines (52 sloc)  3.97 KB
-  
 # **Bootcamp 60.Grup**
 
 60.Grup
