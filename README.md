@@ -35,10 +35,10 @@ Latest commit 9e23d20 22 days ago
 
 ## Takım Elemanları
 
--Emirhan Yüksel - Product Owner
--Melike Nur Köroğlu - Scrum Master
--Ayşe SUBAŞI - Deveploment Team
--Oğuzhan Karacaoğlan - Deveploment Team
+- Emirhan Yüksel: Product Owner
+- Melike Nur Köroğlu: Scrum Master
+- Ayşe SUBAŞI: Deveploment Team
+- Oğuzhan Karacaoğlan: Deveploment Team
 
 ## Ürün İsmi
 
