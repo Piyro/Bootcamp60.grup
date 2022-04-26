@@ -20,11 +20,11 @@
 
 ## Ürün Açıklaması
 
-- Oyunumuz STEM odaklı olup oyunu oynarken oyuncuya oyunu öğretecek.
+- Oyunumuz STEAM eğitimi odaklı olup oyunu oynarken oyuncuya oyunu eğitim bağlamında öğretecek.
 
 ## Ürün Özellikleri
 
--STEM
+-STEAM
 >Eklenecek
 
 ## Hedef Kitle
