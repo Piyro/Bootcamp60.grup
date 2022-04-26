@@ -47,7 +47,7 @@ Latest commit 9e23d20 22 days ago
 
 ## Ürün Açıklaması
 
-- Oyunumuz STEM odaklı olacak ve oyunu oynarken oyuncuya oyunu öğretecek.
+- Oyunumuz STEM odaklı olup oyunu oynarken oyuncuya oyunu öğretecek.
 
 ## Ürün Özellikleri
 
@@ -56,8 +56,8 @@ Latest commit 9e23d20 22 days ago
 
 ## Hedef Kitle
 
--İlkokul öğrencileri
--Ortaokul öğrencileri
+- İlkokul öğrencileri
+- Ortaokul öğrencileri
 
 ## Product Backlog URL
 
