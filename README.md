@@ -60,6 +60,6 @@ Latest commit 9e23d20 22 days ago
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO5l1S8o=/?share_link_id=436440516610)
 
 ---
