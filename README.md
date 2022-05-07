@@ -37,4 +37,4 @@ Grup 60 OUA tutmuş
 [Miro Backlog Board](https://miro.com/app/board/uXjVO5l1S8o=/?share_link_id=436440516610)
 
 ---
-## Siprin1
+## Sprint1
