@@ -24,8 +24,7 @@ Grup 60 OUA tutmuş
 
 ## Ürün Özellikleri
 
--STEAM
->Eklenecek
+-Olayları çözme
 
 ## Hedef Kitle
 
