@@ -20,7 +20,7 @@ Grup 60 OUA tutmuş
 
 ## Ürün Açıklaması
 
-- Oyunumuz STEAM eğitimi odaklı olup oyunu oynarken oyuncuya oyunu eğitim bağlamında öğretecek.
+- Oyunumuz görme engeli olan bireyin gerçek dünyası ve onun hayal dünyasını anlatan bir oyundur. Oyunda oyuncumuzun gerçekten dünyada onu hayal kurmasını tetikleyen unsurlar yer alaak ve hayal kurmaya başladığı anda oyun dünyasına geçecektir. Oyun dünyasında karşısına çıkan
 
 ## Ürün Özellikleri
 
