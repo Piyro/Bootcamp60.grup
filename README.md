@@ -4,7 +4,7 @@
 Grup 60 OUA tutmuş
 
 # Ürün İle İlgili Bilgiler
- Oyunumuz STEAM  eğitimi odaklı olacak.
+ Oyunumuz Bilgisayar üzerinden oynanmaktadır. Kullanıcı karekteri basit komutlarla hareket ettirecek ve karşısına çıkacak kişilerden mantığı yardımı ile kurtulacak. Bu oyun bize görme engelli bireyin zihnini anlamamızı sağlayacak.
 
 ## Takım Elemanları
 
@@ -16,7 +16,7 @@ Grup 60 OUA tutmuş
 
 ## Ürün İsmi
 
---STEM Game--
+--BlindEyes--
 
 ## Ürün Açıklaması
 
@@ -24,12 +24,14 @@ Grup 60 OUA tutmuş
 
 ## Ürün Özellikleri
 
--Olayları çözme
+- Görme engelli bireyler için farkındalık
+- Basit oyun komutları ile etkileyici bir hikaye çözümü
+- 
 
 ## Hedef Kitle
 
-- İlkokul öğrencileri
-- Ortaokul öğrencileri
+- Oyun seven herkes
+- 
 
 ## Product Backlog URL
 
@@ -38,14 +40,14 @@ Grup 60 OUA tutmuş
 ---
 ## Sprint1
 
-- Sprint Notları:
+-  **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir
 
-- Sprint içinde tamamlanması tahmin edilen puan:
+- **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
-- Puan tamamlama mantığı: 
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 370 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ve ilk sprint'in daha çok oyunun hikayesi ve akşıyla ilgili çerçevisini oluşturması sebebiyle 100 puan ile başlamasının yeterli olacağına karar verildi.
 
-- Backlog düzeni ve Story seçimleri: 
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak oyun hikayemize göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun Senoryaları çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
-- Daily Scrum:
+- **Daily Scrum:**
 
-- Sprint board update: 
+- **Sprint board update:** 
