@@ -38,3 +38,9 @@ Grup 60 OUA tutmuş
 
 ---
 ## Sprint1
+Sprint Notları:
+Sprint içinde tamamlanması tahmin edilen puan:
+Puan tamamlama mantığı: 
+Backlog düzeni ve Story seçimleri: 
+Daily Scrum:
+Sprint board update: 
