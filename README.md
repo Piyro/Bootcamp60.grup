@@ -50,7 +50,8 @@ Grup 60 OUA tutmuş
 
 - **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 1 Daily Scrum Chats](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/DailyScrumMeetingNotesSprint1.60.grup.docx)
 
-- **Sprint board update:** 
+- **Sprint board update:** Sprint board screenshotları: 
+
 ![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/board.PNG)
 ![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/backlog2.PNG)
 ![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/backlog3.PNG)
