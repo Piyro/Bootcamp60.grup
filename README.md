@@ -48,11 +48,18 @@ Grup 60 OUA tutmuş
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak oyun hikayemize göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun Senoryaları çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
-- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 1 Daily Scrum Chats](https://github.com/Piyro/Bootcamp60.grup/blob/main/DailyScrumMeetingNotesSprint1.60.grup.docx)
+- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 1 Daily Scrum Chats](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/DailyScrumMeetingNotesSprint1.60.grup.docx)
 
 - **Sprint board update:** 
--
-- **Ürün Durumu: Ekran görüntüleri:**
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/board.PNG)
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/backlog2.PNG)
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/backlog3.PNG)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![Screenshot 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/%C3%BCr%C3%BCn1.jpeg)
+![Screenshot 2](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/%C3%BCr%C3%BCn2.jpeg)
+![Screenshot 3](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/%C3%BCr%C3%BCn3.jpeg)
+![Screenshot 4](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/%C3%BCr%C3%BCn4.jpeg)
 
 - **Sprint Review:** Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
 
