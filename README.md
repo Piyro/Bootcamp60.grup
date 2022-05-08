@@ -48,7 +48,7 @@ Grup 60 OUA tutmuş
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak oyun hikayemize göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun Senoryaları çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
-- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Daly] https://github.com/Piyro/Bootcamp60.grup/blob/main/DailyScrumMeetingNotesSprint1.60.grup.docx
+- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 1 Daily Scrum Chats]https://github.com/Piyro/Bootcamp60.grup/blob/main/DailyScrumMeetingNotesSprint1.60.grup.docx
 
 - **Sprint board update:** 
 -
