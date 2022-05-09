@@ -42,9 +42,9 @@ Grup 60 OUA Tutmuş
 
 -  **Sprint Notları:** Kullanıcı hikayeleri, çalışma günleri, Görev dağılımları ve oyun ile ilgili sahne bilgileri product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında detayları görebilirsiniz.
 
-- **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan:** 80 Puan
 
-- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 370 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ve ilk sprint'in daha çok oyunun hikayesi ve akşıyla ilgili çerçevisini oluşturması sebebiyle 100 puan ile başlamasının yeterli olacağına karar verildi.
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ve ilk sprint'in daha çok oyunun hikayesi ve akşıyla ilgili çerçevisini oluşturması sebebiyle 80 puan ile başlamasının yeterli olacağına karar verildi.
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak oyun hikayemize göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun Senoryaları çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
