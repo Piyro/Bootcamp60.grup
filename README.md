@@ -26,12 +26,12 @@ Grup 60 OUA Tutmuş
 
 - Görme engelli bireyler için farkındalık
 - Basit oyun komutları ile etkileyici bir hikaye çözümü
-- 
+
 
 ## Hedef Kitle
 
 - Oyun seven herkes
-- 
+
 
 ## Product Backlog URL
 
