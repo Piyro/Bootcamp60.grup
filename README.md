@@ -40,7 +40,7 @@ Grup 60 OUA Tutmuş
 ---
 ## Sprint1
 
--  **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir
+-  **Sprint Notları:** Kullanıcı hikayeleri, çalışma günleri, Görev dağılımları ve oyun ile ilgili sahne bilgileri product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında detayları görebilirsiniz.
 
 - **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
@@ -66,9 +66,10 @@ Grup 60 OUA Tutmuş
 
 - **Sprint Retrospective:**
 
-Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-Unit test'ler için ayrılan efor/saat arttırılmalı
+Oyun kodlanmasında görev dağılımı yapılmalı.
+Oyunun Test edilmesi için zamanlar ayarlanmaalı buna bağlı oalrak toplantı günleri revize edilmeli.
+Sprint planlama toplantılarında tahmin puanları gözden geçirilmeli.
+
 -Diğer Notlar:
 
 N/A
