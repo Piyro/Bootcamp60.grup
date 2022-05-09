@@ -62,8 +62,8 @@ Grup 60 OUA Tutmuş
 ![Screenshot 3](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/%C3%BCr%C3%BCn3.jpeg)
 ![Screenshot 4](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/%C3%BCr%C3%BCn4.jpeg)
 
-- **Sprint Review:** Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
-
+- **Sprint Review:** Alınan kararlar: Oyun senaryosu ve fikri oluşturulmuştur. Fakat sahne tasarımları ve senoryası için değişikliğe gidilmiştir bu sebeblede assetslerde değişiklik yapılmasına karar verilmiştir. Oyunun kodlanmasına geçilmediği için sonraki sprint'e aktarılmıştır. Çıkan ürünün sanorya tasarımlarında bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Emirhan Yüksel, Melike Nur Köroğlu, Ayşe SUBAŞI, Oğuzhan Karacaoğlan, Şenay Dumantepe:
+-
 - **Sprint Retrospective:**
 
 Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
