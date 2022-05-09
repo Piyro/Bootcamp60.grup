@@ -1,7 +1,7 @@
  
 # **Bootcamp 60.Grup**
 
-Grup 60 OUA tutmuş
+Grup 60 OUA Tutmuş
 
 # Ürün İle İlgili Bilgiler
  Oyunumuz Bilgisayar üzerinden oynanmaktadır. Kullanıcı karekteri basit komutlarla hareket ettirecek ve karşısına çıkacak kişilerden mantığı yardımı ile kurtulacak. Bu oyun bize görme engelli bireyin zihnini anlamamızı sağlayacak.
