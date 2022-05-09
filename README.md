@@ -20,7 +20,7 @@ Grup 60 OUA Tutmuş
 
 ## Ürün Açıklaması
 
-- Oyunumuz görme engeli olan bireyin gerçek dünyası ve onun hayal dünyasını anlatan bir oyundur. Oyunda oyuncumuzun gerçekten dünyada onu hayal kurmasını tetikleyen unsurlar yer alaak ve hayal kurmaya başladığı anda oyun dünyasına geçecektir. Oyun dünyasında karşısına çıkan
+- Oyunumuz görme engeli olan bireyin gerçek dünyası ve onun hayal dünyasını anlatan bir oyundur. Oyunda oyuncumuzun gerçekten dünyada onu hayal kurmasını tetikleyen unsurlar yer alacak ve hayal kurmaya başladığı andan itibaren oyun dünyasına geçiş yapacağı aşama başlayacaktır. Oyun dünyasında karşısına çıkan
 
 ## Ürün Özellikleri
 
