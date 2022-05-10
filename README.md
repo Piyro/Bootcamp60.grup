@@ -46,7 +46,7 @@ Grup 60 OUA Tutmuş
 
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve ilk sprint'in daha çok oyunun hikayesi ve akşıyla ilgili çerçevisini oluşturması sebebiyle 80 puan ile başlamasının yeterli olacağına karar verildi.
 
-- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak oyun hikayemize göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun Senoryaları çıkan tahmin puanı, toplam puanla aynı olmuştur.
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak oyun hikayemize göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun Senoryaları çıkan tahmin puanı, toplam puanla aynı olmuştur. Kodlamaya ilişkin puanlamalar Sprint 2 ye bırakılmıştır.
 
 - **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 1 Daily Scrum Chats](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/DailyScrumMeetingNotesSprint1.60.grup.docx)
 
