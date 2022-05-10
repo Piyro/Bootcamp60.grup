@@ -44,7 +44,7 @@ Grup 60 OUA Tutmuş
 
 - **Sprint içinde tamamlanması tahmin edilen puan:** 80 Puan
 
-- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ve ilk sprint'in daha çok oyunun hikayesi ve akşıyla ilgili çerçevisini oluşturması sebebiyle 80 puan ile başlamasının yeterli olacağına karar verildi.
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve ilk sprint'in daha çok oyunun hikayesi ve akşıyla ilgili çerçevisini oluşturması sebebiyle 80 puan ile başlamasının yeterli olacağına karar verildi.
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak oyun hikayemize göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun Senoryaları çıkan tahmin puanı, toplam puanla aynı olmuştur.
 
