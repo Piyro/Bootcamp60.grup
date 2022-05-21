@@ -67,7 +67,7 @@ Grup 60 OUA Tutmuş
 - **Sprint Retrospective:**
 
 Oyun kodlanmasında görev dağılımı yapılmalı.
-Oyunun Test edilmesi için zamanlar ayarlanmaalı buna bağlı oalrak toplantı günleri revize edilmeli.
+Oyunun Test edilmesi için zamanlar ayarlanmalı buna bağlı olarak toplantı günleri revize edilmeli.
 Sprint planlama toplantılarında tahmin puanları gözden geçirilmeli.
 
 -Diğer Notlar:
