@@ -97,7 +97,9 @@ N/A
 ![Screenshot 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn1.jpeg)
 ![Screenshot 2](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn2.jpeg)
 ![Screenshot 3](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn3.jpeg)
-![Screenshot 4]()
+![Screenshot 4](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn4.jpeg)
+![Screenshot 5](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn5.jpeg)
+![Screenshot 6](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn6.jpeg)
 
 - **Sprint Review:** Alınan kararlar: terrainler oluşturulmuştur. karekter seçimi yapılıp karekter kodlanmaya başlanmıştır. Oyunun etkileşime gireceği nesneler seçilmiştir. Oyun sonu olan bölge tasarımı tamamlanmıştır. Sprint Review katılımcıları: Emirhan Yüksel, Melike Nur Köroğlu, Ayşe SUBAŞI, Oğuzhan Karacaoğlan, Şenay Dumantepe:
 
