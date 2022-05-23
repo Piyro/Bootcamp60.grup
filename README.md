@@ -94,17 +94,17 @@ N/A
 ![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/backlog2.3.PNG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Screenshot 1]()
-![Screenshot 2]()
-![Screenshot 3]()
+![Screenshot 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn1.jpeg)
+![Screenshot 2](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn2.jpeg)
+![Screenshot 3](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn3.jpeg)
 ![Screenshot 4]()
 
 - **Sprint Review:** Alınan kararlar: terrainler oluşturulmuştur. karekter seçimi yapılıp karekter kodlanmaya başlanmıştır. Oyunun etkileşime gireceği nesneler seçilmiştir. Oyun sonu olan bölge tasarımı tamamlanmıştır. Sprint Review katılımcıları: Emirhan Yüksel, Melike Nur Köroğlu, Ayşe SUBAŞI, Oğuzhan Karacaoğlan, Şenay Dumantepe:
 
 - **Sprint Retrospective:**
 
-- Oyun kodlanması ve test edilmesine görev dağılımı yapılmalı.
-- Oyunun kodlamada çıkacak olan olası hatalar için bir zaman dilimi belirlenmeli ve toplantı günleri arttırılmalıdır
-- Sprint planlama toplantılarında tahmin puanları gözden geçirilmeli.
+- Oyun kodlanmasının ödemine varıldı ve asıl sürecin kodlamar ve ilşkilerinin önemine ve zamanayrılması gerekiyor.
+- Oyunun son sahnesinin animayonla mı bitmeli yoksa oyuncuya mı bırakılmalı bunun kararı verilmeli.
+
 ---
 ## Sprint3
