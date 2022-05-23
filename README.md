@@ -52,7 +52,7 @@ Grup 60 OUA Tutmuş
 
 - **Sprint board update:** Sprint board screenshotları: 
 
-![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/board.PNG)
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/backlog.PNG)
 ![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/backlog2.PNG)
 ![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement/backlog3.PNG)
 
