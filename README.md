@@ -85,7 +85,7 @@ N/A
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz oyunun karekter tasarımı, sahne tasarımı ve kodlanmasına göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun Senoryaları çıkan tahmin puanı, toplam puanla aynı olmuştur. Kodlamaya ilişkin test puanları Sprint 3 e bırakılmıştır.
 
-- **Daily Scrum:**  Daily Scrum toplantılarının sprint2 sürecinde ekip üyelerinin yoğunluğundan dolayı   daha çok WhatsApp üzerinden iletişime geçildi. Sprint 1 sürecinde oluşturduğumuz  kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) toplantılara  Discord üzerinden devam edildi. [Sprint 2 Daily Scrum Chats] (https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/DailyScrumMeetingNotesSprint2.60.grup.docx)
+- **Daily Scrum:**  Daily Scrum toplantılarının sprint2 sürecinde ekip üyelerinin yoğunluğundan dolayı   daha çok WhatsApp üzerinden iletişime geçildi. Sprint 1 sürecinde oluşturduğumuz  kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) toplantılara  Discord üzerinden devam edildi. [Sprint 2 Daily Scrum Chats](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint2/DailyScrumMeetingNotesSprint2.60.grup.docx)
 
 - **Sprint board update:** Sprint board screenshotları: 
 
