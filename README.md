@@ -103,8 +103,9 @@ N/A
 
 - **Sprint Retrospective:**
 
-- Oyun kodlanmasının ödemine varıldı ve asıl sürecin kodlamar ve ilşkilerinin önemine ve zamanayrılması gerekiyor.
+- Oyun kodlanmasının önemine varıldı ve asıl sürecin kodlamalar ve ilşkilerinin önemli olduğunu anladık.
 - Oyunun son sahnesinin animayonla mı bitmeli yoksa oyuncuya mı bırakılmalı bunun kararı verilmeli.
+- Kodlama sürecine daha fazla zaman ayrılması gerektiği ve işbirlikli çalışmalanın önemi görüldü.
 
 ---
 ## Sprint3
