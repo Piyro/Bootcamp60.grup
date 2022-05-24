@@ -79,9 +79,9 @@ N/A
 
 -  **Sprint Notları:** oyun süreci, çalışma günleri, Görev dağılımları ve oyun ile ilgili sahne bilgileri product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında detayları görebilirsiniz.
 
-- **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan:** 80 Puan
 
-- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 80 puan düşmektedir fakat sprint2 de kodlama sürecinin fazla olmasından dolayı bu sprinte 100 puan verdik.
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 80 puan düşmektedir fakat sprint2 de kodlama sürecinin fazla olmasından dolayı bu sprinte 80 puan verdik.
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz oyunun karekter tasarımı, sahne tasarımı ve kodlanmasına göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun Senoryaları çıkan tahmin puanı, toplam puanla aynı olmuştur. Kodlamaya ilişkin test puanları Sprint 3 e bırakılmıştır.
 
