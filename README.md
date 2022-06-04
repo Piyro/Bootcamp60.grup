@@ -125,9 +125,9 @@ N/A
 
 - **Sprint board update:** Sprint board screenshotları: 
 
-![Backlog 1]()
-![Backlog 1]()
-![Backlog 1]()
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/backlog3.1.PNG)
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/backlog3.2.PNG)
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/backlog3.3.PNG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![Screenshot 1]()
