@@ -135,12 +135,12 @@ N/A
 ![Screenshot 3]()
 ![Screenshot 4]()
 
-- **Sprint Review:** Alınan kararlar: Oyunun müzikler, ana menü ve animasyonlar için seçimler yapılmıştır. Oyunun kodlanmasına geçilmediği için sonraki sprint'e aktarılmıştır. Çıkan ürünün oynanmasında bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Emirhan Yüksel, Melike Nur Köroğlu, Ayşe SUBAŞI, Oğuzhan Karacaoğlan, Şenay Dumantepe:
+- **Sprint Review:** Alınan kararlar: Oyunun müzikler, ana menü ve animasyonlar için seçimler yapılmıştır. Oyunun kodlanmasında ve oynanmasında çıkan engeller giderilmiştir. Çıkan ürünün oynanmasında bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Emirhan Yüksel, Melike Nur Köroğlu, Ayşe SUBAŞI, Oğuzhan Karacaoğlan, Şenay Dumantepe:
 
 - **Sprint Retrospective:**
 
-Oyun kodlanmasında görev dağılımı yapılmalı.
-Oyunun Test edilmesi için zamanlar ayarlanmalı buna bağlı olarak toplantı günleri revize edilmeli.
-Sprint planlama toplantılarında tahmin puanları gözden geçirilmeli.
+Oyun tasarımının kendimiz yapacak ise bunun kararı hızlı bir şekilde verilmeli ve tema belirlenerek tasarıma başlanması gerekirdi. Biz bu konuda karar veremediğimiz için hazır asset kullandık. Bu bir eksiklik değil sadece ekibizin yeterlilik ve zaman kısıtlamasında ötürü olan bir durum oldu.
+Süreci daha erken planlanması gerekiyordu.
+
 
 -Diğer Notlar:
