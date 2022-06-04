@@ -121,7 +121,7 @@ N/A
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz oynun kodlanması, animasyonlar ve tüm sürecine entegre edilmesine göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun kodları ve animasyonlar için çıkan tahmin puanı, toplam puanla aynı olmuştur.
 
-- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 3 Daily Scrum Chats]()
+- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 3 Daily Scrum Chats](https://github.com/Piyro/Bootcamp60.grup/tree/main/ProjectManagement_Sprint3)
 
 - **Sprint board update:** Sprint board screenshotları: 
 
