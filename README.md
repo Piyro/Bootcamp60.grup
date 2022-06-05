@@ -111,3 +111,34 @@ N/A
 
 ---
 ## Sprint3
+
+
+-  **Sprint Notları:** Oyunun kodlanması, çalışma günleri, Görev dağılımları ve oyun ile ilgili animasyon bilgileri product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında detayları görebilirsiniz.
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 80 Puan
+
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve son sprint'in daha çok oyunun kodlanması, animasyonlar ve entegre edilmesini oluşturması sebebiyle 80 puanın yeterli olacağına karar verildi.
+
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz oynun kodlanması, animasyonların yapılmasına ilişkin olarak düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun kodlanması ve animasyonlae çıkan tahmin puanı, toplam puanla aynı olmuştur.
+
+- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 3 Daily Scrum Chats]()
+
+- **Sprint board update:** Sprint board screenshotları: 
+
+![Backlog 1]()
+![Backlog 1]()
+![Backlog 1]()
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![Screenshot 1]()
+![Screenshot 2]()
+![Screenshot 3]()
+![Screenshot 4]()
+
+- **Sprint Review:** Alınan kararlar: Oyunın kodları ve animasyonlaeı oluşturuldu. Animasyonlarda kullanılacak olan 2D tasarımlara karar verilmiştir. Oyunun karekterlerine ilişkin diyologlar yazılmış ve seslendirmeler yapılmıştır. Ana menü sayfası oluşturulmuştur. Ekstra koyulması gereken özellikler belirlenmiştir fakat zaman kısıtlamasından ötürü yapılmaması kararlaştırılmıştır. Sprint Review katılımcıları: Emirhan Yüksel, Melike Nur Köroğlu, Ayşe SUBAŞI, Oğuzhan Karacaoğlan, Şenay Dumantepe:
+
+- **Sprint Retrospective:**
+
+Oyunda hazır asset yerine kendi tasarımlarımızı kullanabilirdik. Fakat süreç olarak kısıtlı olmasından dolayı kendi tasarımlarımızı yapamadık. 
+Oyunu parça parça githuba yüklemek gerekiyor. Biz bitmiş oyunu yükledik ve kodlarımız silindi bazı sıkınıtlar yaşandı.
+
