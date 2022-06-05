@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/playground.unity
+- path: Assets/firstPlayground.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
