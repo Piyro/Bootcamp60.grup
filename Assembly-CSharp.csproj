@@ -56,14 +56,11 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\npcCharacter.cs" />
     <Compile Include="Assets\controller\cameraInput.cs" />
     <Compile Include="Assets\Starfield Skybox\Demo\Script\LookCamera.cs" />
     <Compile Include="Assets\script\GoroMovementScript.cs" />
     <Compile Include="Assets\character\Goro2Script.cs" />
     <Compile Include="Assets\script\RunTimeGoro.cs" />
-    <Compile Include="Assets\character\ucurum.cs" />
-    <Compile Include="Assets\intihar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\sky5X\README.txt" />
@@ -638,17 +635,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Cinemachine.csproj">
-      <Project>{24E30AED-5CCE-3F80-23FB-45F57D20626D}</Project>
-      <Name>Cinemachine</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.VSCode.Editor.csproj">
       <Project>{4A6A8E66-E699-37F4-512B-AD2E67BD549B}</Project>
       <Name>Unity.VSCode.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="com.unity.cinemachine.editor.csproj">
-      <Project>{54FECDBE-62E8-9577-A408-6CAA24D743F2}</Project>
-      <Name>com.unity.cinemachine.editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
       <Project>{F4467476-72DC-A080-01C0-9EEFBE2719CF}</Project>

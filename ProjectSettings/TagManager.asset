@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - rock
+  - dusman
+  - dusman2
+  - dusman3
+  - sezgi
+  - ucurum
   layers:
   - Default
   - TransparentFX

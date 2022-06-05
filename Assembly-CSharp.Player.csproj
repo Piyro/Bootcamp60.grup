@@ -56,14 +56,11 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\npcCharacter.cs" />
     <Compile Include="Assets\controller\cameraInput.cs" />
     <Compile Include="Assets\Starfield Skybox\Demo\Script\LookCamera.cs" />
     <Compile Include="Assets\script\GoroMovementScript.cs" />
     <Compile Include="Assets\character\Goro2Script.cs" />
     <Compile Include="Assets\script\RunTimeGoro.cs" />
-    <Compile Include="Assets\character\ucurum.cs" />
-    <Compile Include="Assets\intihar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\sky5X\README.txt" />
@@ -266,9 +263,6 @@
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
@@ -632,10 +626,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Cinemachine.Player.csproj">
-      <Project>{1B2A1D12-E604-207B-9992-B9F5A5F06DDF}</Project>
-      <Name>Cinemachine.Player</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Player.csproj">
       <Project>{76599647-02E1-D475-5CE1-DB046352A623}</Project>
       <Name>Unity.Timeline.Player</Name>
