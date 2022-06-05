@@ -111,3 +111,35 @@ N/A
 
 ---
 ## Sprint3
+
+
+-  **Sprint Notları:** Oyunun kodlanması, çalışma günleri, Görev dağılımları ve oyun ile ilgili animasyon bilgileri product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında detayları görebilirsiniz.
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 80 Puan
+
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve son sprint'in daha çok oyunun kodlanması, animasyonlar ve entegre edilmesini oluşturması sebebiyle 80 puanın yeterli olacağına karar verildi.
+
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz oynun kodlanması, animasyonların yapılmasına ilişkin olarak düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun kodlanması ve animasyonlae çıkan tahmin puanı, toplam puanla aynı olmuştur.
+
+- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 3 Daily Scrum Chats](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/DailyScrumMeetingNotesSprint3.60.grup.docx)
+
+- **Sprint board update:** Sprint board screenshotları: 
+
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/backlog3.1.PNG)
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/backlog3.2.PNG)
+![Backlog 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/backlog3.3.PNG)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![Screenshot 1](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%201.jpeg)
+![Screenshot 2](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%202.jpeg)
+![Screenshot 3](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%203.jpeg)
+![Screenshot 4](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%204.jpeg)
+![Screenshot 5](https://github.com/Piyro/Bootcamp60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%205.jpeg)
+
+- **Sprint Review:** Alınan kararlar: Oyunın kodları ve animasyonlaeı oluşturuldu. Animasyonlarda kullanılacak olan 2D tasarımlara karar verilmiştir. Oyunun karekterlerine ilişkin diyologlar yazılmış ve seslendirmeler yapılmıştır. Ana menü sayfası oluşturulmuştur. Ekstra koyulması gereken özellikler belirlenmiştir fakat zaman kısıtlamasından ötürü yapılmaması kararlaştırılmıştır. Sprint Review katılımcıları: Emirhan Yüksel, Melike Nur Köroğlu, Ayşe SUBAŞI, Oğuzhan Karacaoğlan, Şenay Dumantepe:
+
+- **Sprint Retrospective:**
+
+Oyunda hazır asset yerine kendi tasarımlarımızı kullanabilirdik. Fakat süreç olarak kısıtlı olmasından dolayı kendi tasarımlarımızı yapamadık. 
+Oyunu parça parça githuba yüklemek gerekiyor. Biz bitmiş oyunu yükledik ve kodlarımız silindi bazı sıkınıtlar yaşandı.
+
